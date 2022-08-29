@@ -25,11 +25,21 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-Gamal&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 
   <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avinash-218&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-218&theme=chartreuse-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Osama-Gamal&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Osama-Gamal&theme=chartreuse-dark" />
 </p>  
+
+<p align="center">
+
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Osama-Gamal&" alt="osamagamal" /></p>
+## Just a Snake 🐍 Eating away my Contributions...😭
+![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
+
+  
+</p>  
 
