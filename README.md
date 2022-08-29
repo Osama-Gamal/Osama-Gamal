@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Osama Gamal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Osama Gamal</h1>
 <h3 align="center">I am Mobile,Desktop and Games Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Osama-Gamal&label=Profile%20views&color=0e75b6&style=flat" alt="osamagamal" /> </p>
