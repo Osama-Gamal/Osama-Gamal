@@ -6,6 +6,12 @@
 
 
 <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Mobile+Developer;Desktop+Developer;Games+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
+
+
+<p align="center">
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=Osama-Gamal&column=7&theme=gruvbox&no-frame=true"/>
 </details>
 
