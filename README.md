@@ -33,7 +33,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-I am working now on tank simulator system
+
 
   <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Osama-Gamal&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
