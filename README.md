@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Osama-Gamal&label=Profile%20views&color=0e75b6&style=flat" alt="osamagamal" /> </p>
 
-
+c
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Mobile+Developer;Desktop+Developer;Games+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
